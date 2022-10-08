@@ -8,3 +8,5 @@ python2 speedup.py
 
 Enjoy Random Cloning
 #Random_Cloning
+password > 313 
+username >> 313
